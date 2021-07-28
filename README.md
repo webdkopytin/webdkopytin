@@ -3,21 +3,12 @@
 
 Skills: Java / HTML5 / CSS3
 
-![Profile views](https://gpvc.arturio.dev/webdkopytin)
+![Profile views](https://komarev.com/ghpvc/?username=webdkopytin)
 
 <details>
   <summary>:zap: Statistics:</summary>
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=webdkopytin&show_icons=true" />
-
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdkopytin&show_icons=true)  
-
-    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webdkopytin)  
-
-    ![GitHub metrics](https://metrics.lecoq.io/webdkopytin)  
-
-    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webdkopytin)  
-
-    ![Profile views](https://gpvc.arturio.dev/webdkopytin)  
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=webdkopytin&layout=compact" />
   
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdkopytin&show_icons=true" />
 </details>
 
