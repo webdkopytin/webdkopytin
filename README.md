@@ -9,11 +9,11 @@ Skills: Java / HTML5 / CSS3
   <summary>:zap: Statistics:</summary>
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=webdkopytin&show_icons=true" />
 
-    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webdkopytin" />
+    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webdkopytin&show_icons=true" />
 
-    <img alt="GitHub metrics" src="https://metrics.lecoq.io/webdkopytin" />
+    <img alt="GitHub metrics" src="https://metrics.lecoq.io/webdkopytin&show_icons=true" />
 
-    <img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=webdkopytin" />
+    <img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=webdkopytin&show_icons=true" />
 </details>
 
 
