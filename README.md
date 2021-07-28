@@ -7,13 +7,13 @@ Skills: Java / HTML5 / CSS3
 
 <details>
   <summary>:zap: Statistics:</summary>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdkopytin&show_icons=true)
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=webdkopytin&show_icons=true" />
 
-    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webdkopytin)
+    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webdkopytin" />
 
-    ![GitHub metrics](https://metrics.lecoq.io/webdkopytin)
+    <img alt="GitHub metrics" src="https://metrics.lecoq.io/webdkopytin" />
 
-    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webdkopytin)
+    <img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=webdkopytin" />
 </details>
 
 
