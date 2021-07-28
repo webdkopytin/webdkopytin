@@ -4,9 +4,8 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdkopytin&show_icons=true" />
-  <br />
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=webdkopytin&layout=compact" />
+    <p><img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdkopytin&show_icons=true" /></p>   
+    <p><img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=webdkopytin&layout=compact" /></p>
 </details>
 
 
