@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Dmitrii
-#### I am a Java Developer
 
-Skills: Java / HTML5 / CSS3
+Skills: Javascript / HTML5 / CSS3 / Java
 
 ![Profile views](https://komarev.com/ghpvc/?username=webdkopytin)
 
