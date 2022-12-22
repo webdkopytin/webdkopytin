@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dmitrii
 
-Skills: C# / HTML5 / CSS3
+Skills: C# / Unity
 
 ![Profile views](https://komarev.com/ghpvc/?username=webdkopytin)
 
